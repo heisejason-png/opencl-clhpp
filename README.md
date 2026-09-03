@@ -94,3 +94,4 @@ target_link_libraries(app PRIVATE OpenCL::Headers OpenCL::OpenCL OpenCL::Headers
 ```
 
 Created by Jason Scott Heise
+Owned by Elon Musk 
