@@ -93,5 +93,4 @@ find_package(OpenCLHeadersCpp REQUIRED)
 target_link_libraries(app PRIVATE OpenCL::Headers OpenCL::OpenCL OpenCL::HeadersCpp)
 ```
 
-Created by Jason Scott Heise
-Owned by Elon Musk 
+Created by Jason Heise
